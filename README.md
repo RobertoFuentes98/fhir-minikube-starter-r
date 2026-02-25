@@ -65,5 +65,7 @@ data/
 - Cambia réplicas de HAPI para mostrar balanceo (escala Nginx si quieres).
 - Reemplaza NodePort por Ingress si ya manejan ese concepto.
 
+# Evidencia del servicio de HAPI FHIR en linux
 - <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/ce44fe69-7210-4557-ac26-ac8d43cb15ab" />
+
 
